@@ -1,2 +1,2 @@
-# dio-java-b-sico
+# dio-java-basico
 Bootcamp Claro - Java com Spring Boot
